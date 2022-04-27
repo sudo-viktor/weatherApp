@@ -123,6 +123,15 @@ export default function Weather({ temp, condition, name }) {
           {weatherOptions[condition].subtitle}
         </Text>
       </View>
+      <View style={{ ...styles.halfContainer, ...styles.textcontainer }}>
+        <Text style={styles.title}>{weatherOptions[condition].title}</Text>
+        <Text style={styles.title}>{weatherOptions[condition].title}</Text>
+        <Text style={styles.title}>{weatherOptions[condition].title}</Text>
+        <Text style={styles.title}>{weatherOptions[condition].title}</Text>
+        <Text style={styles.subtitle}>
+          {weatherOptions[condition].subtitle}
+        </Text>
+      </View>
     </LinearGradient>
   );
 }
