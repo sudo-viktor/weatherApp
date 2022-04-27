@@ -42,6 +42,30 @@ const weatherOptions = {
     title: "На улице смог :(",
     subtitle: "Не советую выходить без необходимости",
   },
+  Smoke: {
+    iconName: "weather-windy",
+    gradient: ["#56CCF2", "#2F80ED"],
+    title: "На улице смог :(",
+    subtitle: "Не советую выходить без необходимости",
+  },
+  Smoke: {
+    iconName: "weather-windy",
+    gradient: ["#56CCF2", "#2F80ED"],
+    title: "На улице смог :(",
+    subtitle: "Не советую выходить без необходимости",
+  },
+  Smoke: {
+    iconName: "weather-windy",
+    gradient: ["#56CCF2", "#2F80ED"],
+    title: "На улице смог :(",
+    subtitle: "Не советую выходить без необходимости",
+  },
+  Smoke: {
+    iconName: "weather-windy",
+    gradient: ["#56CCF2", "#2F80ED"],
+    title: "На улице смог :(",
+    subtitle: "Не советую выходить без необходимости",
+  },
   Haze: {
     iconName: "weather-haze",
     gradient: ["#56CCF2", "#DECBA4"],
